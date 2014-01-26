@@ -14,7 +14,7 @@ Depending on the version, it may be necessary to modify the configuration in
 modules/aerospike/manifests/init.pp. The Debian packages should be placed in
 modules/aerospike/files.
 
-The script to install a specific version of Aerospike has been taken from here: https://gist.github.com/dol/5776169.
+The script to install a specific version of Puppet has been taken from here: https://gist.github.com/dol/5776169.
 Hat tip to Dominic Lüchinger. :)
 
 The Aerospike instance has a single in-memory namespace called 'test'. The
